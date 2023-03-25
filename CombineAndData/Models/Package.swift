@@ -1,9 +1,4 @@
-//
-//  Package.swift
-//  CombineAndData
-//
-//  Created by Roman Liukevich on 2/14/23.
-//
+
 
 import Foundation
 

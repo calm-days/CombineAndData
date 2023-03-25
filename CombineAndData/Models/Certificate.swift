@@ -1,9 +1,4 @@
-//
-//  Certificate.swift
-//  CombineAndData
-//
-//  Created by Roman Liukevich on 2/15/23.
-//
+
 
 import Foundation
 

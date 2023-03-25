@@ -1,7 +1,4 @@
-//
-//  PrimaryButton.swift
-//  SwiftUICombineData
-//
+
 
 import SwiftUI
 

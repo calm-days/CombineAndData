@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  CombineAndData
-//
-//  Created by Roman Liukevich on 2/13/23.
-//
+
 
 import SwiftUI
 
@@ -50,7 +45,6 @@ struct ContentView: View {
                 }
             
             VStack {
-                
                 NavigationLink(destination: FAQView()) {
                     MenuRow()
                 }

@@ -1,9 +1,4 @@
-//
-//  ModeData.swift
-//  CombineAndData
-//
-//  Created by Roman Liukevich on 2/14/23.
-//
+
 
 import Foundation
 var faqData: [FAQ] = load("faqData.json")

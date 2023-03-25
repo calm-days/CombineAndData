@@ -1,9 +1,4 @@
-//
-//  AccountBackground.swift
-//  SwiftUICombineData
-//
-//  Created by Stephanie Diep on 2021-05-17.
-//
+
 
 import SwiftUI
 
